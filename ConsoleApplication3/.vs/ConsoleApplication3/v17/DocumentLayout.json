@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AHAbdulla23\\source\\repos\\ConsoleApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHAbdulla23\\Downloads\\math\\div.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHAbdulla23\\Downloads\\math\\multi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHAbdulla23\\Downloads\\math\\sub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHAbdulla23\\Downloads\\math\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHAbdulla23\\Downloads\\math\\divition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHAbdulla23\\Downloads\\math\\multiply.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHAbdulla23\\Downloads\\math\\subtract.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B825DB9-35CB-4D38-A9FD-37B11BBB4EC3}|..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_91730499\\SingleFileISense\\_sfi_2aa58e66-bc11-4508-8538-718d9afd2f5b_.vcxproj|C:\\Users\\AHAbdulla23\\Downloads\\math\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHAbdulla23\\Downloads\\math\\add.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "div.h",
+              "DocumentMoniker": "C:\\Users\\AHAbdulla23\\Downloads\\math\\div.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\math\\div.h",
+              "ToolTip": "C:\\Users\\AHAbdulla23\\Downloads\\math\\div.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\math\\div.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-20T07:26:42.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "multi.h",
+              "DocumentMoniker": "C:\\Users\\AHAbdulla23\\Downloads\\math\\multi.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\math\\multi.h",
+              "ToolTip": "C:\\Users\\AHAbdulla23\\Downloads\\math\\multi.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\math\\multi.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-20T07:26:19.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sub.h",
+              "DocumentMoniker": "C:\\Users\\AHAbdulla23\\Downloads\\math\\sub.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\math\\sub.h",
+              "ToolTip": "C:\\Users\\AHAbdulla23\\Downloads\\math\\sub.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\math\\sub.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-20T07:25:46.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "add.h",
+              "DocumentMoniker": "C:\\Users\\AHAbdulla23\\Downloads\\math\\add.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\math\\add.h",
+              "ToolTip": "C:\\Users\\AHAbdulla23\\Downloads\\math\\add.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\math\\add.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-20T07:25:04.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "divition.cpp",
+              "DocumentMoniker": "C:\\Users\\AHAbdulla23\\Downloads\\math\\divition.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\math\\divition.cpp",
+              "ToolTip": "C:\\Users\\AHAbdulla23\\Downloads\\math\\divition.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\math\\divition.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-20T07:22:48.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "multiply.cpp",
+              "DocumentMoniker": "C:\\Users\\AHAbdulla23\\Downloads\\math\\multiply.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\math\\multiply.cpp",
+              "ToolTip": "C:\\Users\\AHAbdulla23\\Downloads\\math\\multiply.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\math\\multiply.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-20T07:21:42.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "subtract.cpp",
+              "DocumentMoniker": "C:\\Users\\AHAbdulla23\\Downloads\\math\\subtract.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\math\\subtract.cpp",
+              "ToolTip": "C:\\Users\\AHAbdulla23\\Downloads\\math\\subtract.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\math\\subtract.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-20T07:20:46.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "add.cpp",
+              "DocumentMoniker": "C:\\Users\\AHAbdulla23\\Downloads\\math\\add.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\math\\add.cpp",
+              "ToolTip": "C:\\Users\\AHAbdulla23\\Downloads\\math\\add.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\math\\add.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-20T07:16:35.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleApplication3.cpp",
+              "DocumentMoniker": "C:\\Users\\AHAbdulla23\\Downloads\\math\\ConsoleApplication3.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\math\\ConsoleApplication3.cpp",
+              "ToolTip": "C:\\Users\\AHAbdulla23\\Downloads\\math\\ConsoleApplication3.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\math\\ConsoleApplication3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-20T07:16:08.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
